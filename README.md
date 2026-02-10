@@ -56,4 +56,4 @@ Das System umfasst **15 Tabellen**, die wie folgt gegliedert sind:
 
 1. **Repository klonen**
    ```bash
-   git clone https://github.com/dannybutczynsky/Buchtausch_App_DBMS.git
+   git clone https://github.com/Unadvised7311/Buchtausch_App
